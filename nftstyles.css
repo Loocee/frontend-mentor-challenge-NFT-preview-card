@@ -44,7 +44,7 @@ p{
     height: 260px;
     margin: 0;
     padding: 0;
-    background-image: url(..image-equilibrium.jpg);
+    background-image: url(image-equilibrium.jpg);
     background-size: cover;
     background-position: center center;
     border-radius: 10px;
@@ -60,7 +60,7 @@ p{
 }
 
 .image-div:hover::before{
-  background-image: url(..icon-view.svg);
+  background-image: url(icon-view.svg);
   background-color: hsl(178, 100%, 50%);
   opacity: 0.6;
   background-repeat: no-repeat;
